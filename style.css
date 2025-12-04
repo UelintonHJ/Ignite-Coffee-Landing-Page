@@ -1,0 +1,122 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EAE2B7;
+    color: #432818;
+    line-height: 1.6;
+}
+
+header {
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFE6A7;
+    box-shadow: 0 2px 6px rgba(153, 88, 42, 0.5);
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+header img {
+    width: 50px;
+    border-radius: 50%;
+}
+
+header h1 {
+    font-size: 1.6rem;
+    color: #6F1D1B;
+}
+
+nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #6F1D1B;
+    font-weight: 600;
+}
+
+.hero {
+    padding: 80px 20px;
+    text-align: center;
+    background: url('assets/hero-coffee.png') center/cover no-repeat;
+    color: #EAE2B7;
+    text-shadow: 0 2px 6px rgba(153, 88, 42, 0.6);
+}
+
+.hero h2 {
+    font-size: 2.4rem;
+    margin-bottom: 10px;
+}
+
+.hero p {
+    max-width: 600px;
+    margin: 0 auto 20px auto;
+    font-size: 1.1rem;
+}
+
+.btn {
+    display: inline-block;
+    background-color: #6F1D1B;
+    padding: 12px 26px;
+    color: #EAE2B7;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.2s ease;
+}
+
+.btn:hover {
+    background-color: #800E13;
+}
+
+.menu-section {
+    padding: 60px 20px;
+    background-color: #FFE6A7;
+    text-align: center;
+}
+
+.menu-section h3 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+
+.menu-grid {
+    max-width: 900px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background-color: #EAE2B7;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(153, 88, 42, 0.8);
+}
+
+.card h4 {
+    margin-bottom: 8px;
+}
+
+.card img {
+    width: 100px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: #6F1D1B;
+    color: #EAE2B7;
+    margin-top: 60px;
+}
