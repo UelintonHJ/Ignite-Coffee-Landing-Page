@@ -1,53 +1,57 @@
 # ☕ [Ignite Coffee - Landing Page](https://ignite-coffee-landing-page.vercel.app/)
 
-Uma landing page moderna e minimalista criada para uma cafeteria fictícia chamada **Ignite Coffee**.
-O projeto demonstra domínio de **HTML5 + CSS3 puro**, com foco em boa estrutura semântica, organização visual e componentes simples.
+Uma landing page moderna e minimalista criada para a cafeteria fictícia **Ignite Coffee**.
+O projeto demonstra domínio de **HTML5** e **CSS3**, com foco em semântica, organização visual e construção de interfaces leves e responsivas.
 
 ---
 
-## 🚀 Objetivo do Projeto
-
-Criar uma interface visualmente agradável e funcional utilizando apenas tecnologias básicas do front-end, reforçando fundamentos importantes para qualquer desenvolvedor iniciante.
-
----
-
-## ✨ Destaques
+## 🚀 Funcionalidades
 
 - Layout clean e responsivo
-- HTML semântico
-- CSS organizado e fácil de manter
-- Hero com imagem de destaque
-- Cardápio com ícones ilustrativos
-- Experiência fluida e simples
+- Estrutura HTML semântica
+- CSS organizado e modular
+- Hero com imagem destacada
+- Seção de cardápio com ícones ilustrativos
+- Navegação simples e fluida
 
 ---
 
 ## 🛠 Tecnologias Utilizadas
 
-- **HTML5**
-- **CSS3**
-- **Semântica**
-- **Grid Layout**
+- HTML5
+- CSS3
+- Grid Layout
+- Semântica HTML
+- Git & GitHub
 
 ---
 
 ## 📸 Preview
 
-![Preview do projeto](assets/preview-projeto.png)
+![Preview do projeto](assets/preview-ignite-coffee.png)
 
 ---
 
-## 📌 Status do Projeto 
+## 📦 Como executar o projeto
 
-✅ Concluído
-Pode ser expandido futuramente com:
-- Animações
-- Menu interativo
-- Versão mobile aprimorada
+```
+git clone https://github.com/UelintonHJ/Ignite-Coffee-Landing-Page.git
+cd Ignite-Coffee-Landing-Page
+abrir o index.html no navegador
+```
+Ou acesse a versão hospedada:
+https://ignite-coffee-landing-page.vercel.app/
+
+---
+
+## 📚 Aprendizados
+
+Neste projeto aprimorei meus fundamentos de **HTML semântico**, organização de estilos em **CSS puro**, responsividade e boas práticas de estruturação de landing pages modernas. Também exercitei a criação de componentes visuais simples e limpos.
 
 ---
 
 ## 👤 Autor
 
-Projeto desenvolvido por **Uelinton Janke**.
-Sinta-se à vontade para abrir issues, sugestões ou melhorias!
+**Uelinton Janke**.
+
+LinkedIn: https://www.linkedin.com/in/uelinton-janke/
